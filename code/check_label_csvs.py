@@ -1,10 +1,7 @@
-# Phenonumerics property
-# Written by Cem Bagdatlioglu
-#
-# 2021-08-28
-#
-# FOR INTERNAL USE ONLY.
-#
+#check that csv and images in folder match for each video
+#Change to naive path format (Windows--> Ubuntu or Ubuntu --> Windows)
+#check list of videos in config file against video folders in labled frames directory
+
 
 import sys
 import os
